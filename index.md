@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages (and to the conference !)
 
 <ul id="ProjectSubmenu">
     <li><a href="https://arnaudnod.github.io/essai_web/Program" title="Markdown Project Page">Program of the workshop</a></li>
