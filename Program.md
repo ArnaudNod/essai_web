@@ -9,4 +9,4 @@ PROGRAM OF THE CONFERENCE
 
 This is a cat !
 
-!(le chat)[/asset/img/chat.jpg]
+!(le chat)[/asset/img/chat_y_vert.jpeg]
