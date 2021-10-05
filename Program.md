@@ -14,7 +14,7 @@ This is a cat !
 
 and this is the schedule of the presentations :
 
-<embed src="/asset/pdf_vide.pdf" type="application/pdf">
+<embed src="/essai_web/asset/pdf_vide.pdf" type="application/pdf">
 
-<object data="/asset/pdf_vide.pdf" type="application/pdf" width="100%">
+<object data="/essai_web/asset/pdf_vide.pdf" type="application/pdf" width="100%">
     </object>
