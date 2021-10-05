@@ -10,3 +10,8 @@ PROGRAM OF THE CONFERENCE
 This is a cat !
 
 ![le chat](/asset/img/chat_y_vert.jpeg)
+
+
+and this is the schedule of the presentations :
+
+<embed src="/asset/pdf_vide.pdf" type="application/pdf">
