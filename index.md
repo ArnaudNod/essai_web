@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+<ul id="ProjectSubmenu">
+    <li><a href="/Program" title="Markdown Project Page">Program of the workshop</a></li>
+    <li><a href="/Venue" title="Markdown Basics">Venue</a></li>
+  </ul>
+
 You can use the [editor on GitHub](https://github.com/ArnaudNod/essai_web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
